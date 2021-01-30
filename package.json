@@ -1,0 +1,23 @@
+{
+  "name": "refresh",
+  "version": "1.0.0",
+  "description": "Node refresh for me",
+  "main": "nodeUrl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrot0822/NodeRefrsh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carrot0822/NodeRefrsh/issues"
+  },
+  "homepage": "https://github.com/carrot0822/NodeRefrsh#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "puppeteer": "^5.5.0"
+  }
+}
